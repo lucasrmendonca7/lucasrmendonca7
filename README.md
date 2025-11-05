@@ -27,15 +27,6 @@
 
 ---
 
-<div align="center">
-  <img 
-    src="https://github.com/lucasrmendonca7/lucasrmendonca7/blob/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
-  />
-</div>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasrmendonca7&show_icons=true&theme=tokyonight" height="160px"/>
@@ -44,6 +35,14 @@
 
 ---
 
+<div align="center">
+  <img 
+    src="https://github.com/lucasrmendonca7/lucasrmendonca7/blob/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
+</div>
+
+---
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasrmendonca7)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas80002@gmail.com)
