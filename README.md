@@ -25,18 +25,16 @@
 
 ---
 
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasrmendonca7&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmendonca7&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://raw.githubusercontent.com/lucasrmendonca7/lucasrmendonca7/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucasrmendonca7/lucasrmendonca7/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasrmendonca7&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmendonca7&layout=compact&theme=tokyonight" height="160px"/>
 </div>
 
 ---
@@ -47,4 +45,3 @@
 
 ---
 
-⭐ *"Code, learn, and build every day."*  
