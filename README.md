@@ -26,9 +26,11 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucasrmendonca7/lucasrmendonca7/output/github-contribution-grid-snake.svg" alt="Tokyo Night Snake Animation" />
+  <img 
+    src="https://github.com/lucasrmendonca7/lucasrmendonca7/blob/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
 </div>
-
 
 ---
 
