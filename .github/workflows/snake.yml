@@ -2,19 +2,27 @@ name: Snake Tokyo
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs once a day
+    - cron: "0 0 * * *"  # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Generate snake animation (Tokyo Night style)
         uses: Platane/snk@v3
         with:
           github_user_name: lucasrmendonca7
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+          # Define Tokyo Night color palette + transparency
+          color_snake: "#7aa2f7"          # Neon blue
+          color_dots_1: "#1a1b26"         # Dark background
+          color_dots_2: "#24283b"         # Lighter square
+          color_dots_3: "#3b4261"         # Active square
+          color_dots_4: "#7aa2f7"         # Highlight
+          color_bg: "transparent"
+          speed: 2
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
