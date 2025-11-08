@@ -42,7 +42,7 @@
 </div>
 
 ---
-## 🌐 Let's Connect
+## 🌐 Network
 
 Feel free to reach out if you want to discuss a project or the next big thing in development.
 
