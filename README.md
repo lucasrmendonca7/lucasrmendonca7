@@ -30,14 +30,12 @@
 
 ### 🎮 Forca 2.0  
 Terminal-based version of Hangman focused on logic, validation, and clean code.  
-**Tech:** Python 
 🔗 https://github.com/lucasrmendonca7/forca-2.0-ascii  
 
 ---
 
 ### 📦 Inventory Management System  
-Inventory system with product, stock, and price control using database integration.  
-**Tech:** Java, MySQL  
+Inventory system with product, stock, and price control using database integration.   
 🔗 https://github.com/lucasrmendonca7/inventory-management-system
 
 ## 📊 GitHub Activity
