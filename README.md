@@ -51,15 +51,6 @@ Inventory system with product, stock, and price control using database integrati
 </div>
 
 ---
-
-<div align="center">
-  <img 
-    src="https://github.com/lucasrmendonca7/lucasrmendonca7/blob/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
-  />
-</div>
-
----
 ## 🌐 Network
 
 Feel free to reach out if you want to discuss a project or the next big thing in development.
