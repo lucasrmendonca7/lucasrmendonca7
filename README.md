@@ -1,17 +1,22 @@
-# 👋 Hey there, I'm Lucas Rodrigues Mendonça
+# 👋 Hi, I'm Lucas Rodrigues Mendonça
 
-**Computer Science student at UFCG** 🎓. I'm driven by solid engineering, problem-solving, and efficient code.
+I am a **Computer Science student** at the Federal University of Campina Grande (UFCG). I am a tech enthusiast focused on building efficient, scalable solutions and exploring the mathematical foundations of computing.
 
 ---
 
-## 👨‍💻 Core Focus & Skills
+### 🎓 Education & International Background
+* **B.S. in Computer Science** – UFCG (In progress)
+* **High School Dual Diploma** – International Partnership with the **University of Utah** 🇺🇸
+* **International Exchange Program** – Malta 🇲🇹
+> *This international background has provided me with advanced English proficiency and the ability to collaborate in multicultural environments.*
 
-* **Engineering Mindset:** Currently focusing on improving programming proficiency and diving deep into **Software Engineering** principles.
-* **Tech Stack:** Proficient in **Python** and **Java** development.
-* **Key Interests:** Primarily interested in **Backend Development** and exploring the practical applications of **AI**.
-* **Goal:** My current objective is to grow into a strong, well-rounded full-stack developer.
-* **Language:** B2 English level, validated by a dual diploma program from a Utah high school.
+---
 
+### 🎯 Technical Interests
+* **Data Structures & Algorithms:** Passionate about code efficiency and problem-solving.
+* **Machine Learning:** Exploring predictive models, data analysis, and AI.
+* **Database Management:** Designing and optimizing SQL (MySQL) and NoSQL structures.
+* **Object-Oriented Programming:** Focused on Java and software architecture principles (UML).
 ---
 
 ## 🛠️ Tech Stack
