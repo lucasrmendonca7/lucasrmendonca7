@@ -44,12 +44,9 @@ Terminal-based version of Hangman focused on logic, validation, and clean code.
 Inventory system with product, stock, and price control using database integration.   
 🔗 https://github.com/lucasrmendonca7/inventory-management-system
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasrmendonca7&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmendonca7&layout=compact&theme=tokyonight" height="160px"/>
-</div>
+### 🤖 Arduino Projects  
+Collection of Arduino projects for learning electronics, embedded programming, and circuit prototyping. Includes LEDs, sensors, semaphores, 7-segment displays, and more.  
+🔗 https://github.com/lucasrmendonca7/ArduinoProjects
 
 ---
 ## 🌐 Network
