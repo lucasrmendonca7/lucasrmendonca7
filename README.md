@@ -46,7 +46,7 @@ Inventory system with product, stock, and price control using database integrati
 
 ### 🤖 Arduino Projects  
 Collection of Arduino projects for learning electronics, embedded programming, and circuit prototyping. Includes LEDs, sensors, semaphores, 7-segment displays, and more.  
-🔗 https://github.com/lucasrmendonca7/ArduinoProjects
+🔗 https://github.com/lucasrmendonca7/arduino-projects
 
 ---
 ## 🌐 Network
