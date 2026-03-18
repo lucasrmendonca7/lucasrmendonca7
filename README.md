@@ -34,6 +34,11 @@ I am a **Computer Science student** at the Federal University of Campina Grande 
 
 ## 🚀 Projects
 
+### 🔐 RSA Cryptosystem (Educational)  
+Educational Java implementation of the RSA public-key cryptosystem, covering key generation, encryption/decryption, and core number theory utilities (GCD, modular inverse, fast modular exponentiation). Includes a small performance experiment across different key sizes.  
+🔗 https://github.com/lucasrmendonca7/rsa-project  
+
+---
 ### 🎮 Forca 2.0  
 Terminal-based version of Hangman focused on logic, validation, and clean code.  
 🔗 https://github.com/lucasrmendonca7/forca-2.0-ascii  
