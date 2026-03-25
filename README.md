@@ -34,22 +34,32 @@ I am a **Computer Science student** at the Federal University of Campina Grande 
 
 ## 🚀 Projects
 
-### 🔐 RSA Cryptosystem (Educational)  
+### Engine Temperature Time Series Forecasting
+Data Science project simulating and predicting an engine's temperature. It uses machine learning to forecast the next 24 hours based on historical heating cycles, validating its accuracy against a simple baseline. Created with knowledge from the PNAAT training.
+
+🔗 https://github.com/lucasrmendonca7/time-series-forecasting
+
+---
+
+### RSA Cryptosystem (Educational)  
 Educational Java implementation of the RSA public-key cryptosystem, covering key generation, encryption/decryption, and core number theory utilities (GCD, modular inverse, fast modular exponentiation). Includes a small performance experiment across different key sizes.  
 🔗 https://github.com/lucasrmendonca7/rsa-project  
 
 ---
-### 🎮 Forca 2.0  
+
+### Forca 2.0  
 Terminal-based version of Hangman focused on logic, validation, and clean code.  
 🔗 https://github.com/lucasrmendonca7/forca-2.0-ascii  
 
 ---
 
-### 📦 Inventory Management System  
+### Inventory Management System  
 Inventory system with product, stock, and price control using database integration.   
 🔗 https://github.com/lucasrmendonca7/inventory-management-system
 
-### 🤖 Arduino Projects  
+---
+
+### Arduino Projects  
 Collection of Arduino projects for learning electronics, embedded programming, and circuit prototyping. Includes LEDs, sensors, semaphores, 7-segment displays, and more.  
 🔗 https://github.com/lucasrmendonca7/arduino-projects
 
