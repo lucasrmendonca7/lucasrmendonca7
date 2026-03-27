@@ -38,7 +38,7 @@ I am a **Computer Science student** at the Federal University of Campina Grande 
 ## 🚀 Projects
 
 ### Engine Temperature Time Series Forecasting
-Data Science project simulating and predicting an engine's temperature. It uses machine learning to forecast the next 24 hours based on historical heating cycles, validating its accuracy against a simple baseline. Created with knowledge from the PNAAT training.
+Data Science project simulating and predicting an engine's temperature. It uses machine learning to forecast the next 24 hours based on historical heating cycles, validating its accuracy against a simple baseline. Developed leveraging concepts from the PNAAT (IoT/Edge AI) training.
 
 🔗 https://github.com/lucasrmendonca7/time-series-forecasting
 
