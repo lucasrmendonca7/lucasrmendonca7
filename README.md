@@ -4,8 +4,10 @@ I am a **Computer Science student** at the Federal University of Campina Grande 
 
 ---
 
-### 🎓 Education & International Background
+### 🎓 Education & Certifications
 * **B.S. in Computer Science** – UFCG (In progress)
+* **PNAAT (National Program for Accelerated Learning in Technology)** — Training in **IoT, Embedded Systems & Edge AI**
+
 * **High School Dual Diploma** – International Partnership with the **University of Utah** 🇺🇸
 * **International Exchange Program** – Malta 🇲🇹
 > *This international background has provided me with advanced English proficiency and the ability to collaborate in multicultural environments.*
@@ -15,6 +17,7 @@ I am a **Computer Science student** at the Federal University of Campina Grande 
 ### 🎯 Technical Interests
 * **Data Structures & Algorithms:** Passionate about code efficiency and problem-solving.
 * **Machine Learning:** Exploring predictive models, data analysis, and AI.
+* **IoT & Edge AI:** Embedded ML, sensor data analytics, and efficient on-device models.
 * **Database Management:** Designing and optimizing SQL (MySQL) and NoSQL structures.
 * **Object-Oriented Programming:** Focused on Java and software architecture principles (UML).
 ---
