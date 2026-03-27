@@ -6,7 +6,7 @@ I am a **Computer Science student** at the Federal University of Campina Grande 
 
 ### 🎓 Education & Certifications
 * **B.S. in Computer Science** – UFCG (In progress)
-* **PNAAT:** [Certificates & training summary](https://github.com/lucasrmendonca7/certificados-pnaat) — Training in **IoT, Embedded Systems & Edge AI**
+* **[PNAAT](https://github.com/lucasrmendonca7/certificados-pnaat)** — Training in **IoT, Embedded Systems & Edge AI**
 
 * **High School Dual Diploma** – International Partnership with the **University of Utah** 🇺🇸
 * **International Exchange Program** – Malta 🇲🇹
