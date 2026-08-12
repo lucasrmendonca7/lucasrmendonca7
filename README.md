@@ -39,6 +39,11 @@ I am a **Computer Science student** at the Federal University of Campina Grande 
 
 ## 🚀 Projects
 
+### Open Source Performance Optimization — Data Structures
+Analyzed and optimized CPU/memory bottlenecks across four large open-source repositories (JavaParser, i-Educar, Apache Lucene, Java Photo Gallery) as part of a Data Structures coursework project..
+🔗 https://github.com/lucasrmendonca7/Optimization-of-open-source-projects
+---
+
 ### Engine Temperature Time Series Forecasting
 Data Science project simulating and predicting an engine's temperature. It uses machine learning to forecast the next 24 hours based on historical heating cycles, validating its accuracy against a simple baseline. Developed leveraging concepts from the PNAAT (IoT/Edge AI) training.
 
