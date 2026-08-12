@@ -40,8 +40,10 @@ I am a **Computer Science student** at the Federal University of Campina Grande 
 ## 🚀 Projects
 
 ### Open Source Performance Optimization — Data Structures
-Analyzed and optimized CPU/memory bottlenecks across four large open-source repositories (JavaParser, i-Educar, Apache Lucene, Java Photo Gallery) as part of a Data Structures coursework project..
+Analyzed and optimized CPU/memory bottlenecks across four large open-source repositories (JavaParser, i-Educar, Apache Lucene, Java Photo Gallery) as part of a Data Structures coursework project.
+
 🔗 https://github.com/lucasrmendonca7/Optimization-of-open-source-projects
+
 ---
 
 ### Engine Temperature Time Series Forecasting
